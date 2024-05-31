@@ -20,7 +20,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-
+![Python](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
+![R](https://img.shields.io/badge/RStudio%20IDE-75AADB.svg?style=for-the-badge&logo=RStudio%20IDE&logoColor=whitee)
 
 <!--
 **MinGi-SUNG/MinGi-SUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
