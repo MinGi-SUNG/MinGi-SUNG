@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="left">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=SUNG%20MINGI%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=25&height=250)
+## 📑 GITHUB 📑
+[![MINGI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinGi-SUNG&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+
+## 💻 Algorithm 💻
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg2937)](https://solved.ac/mg2937/)
 
 <!--
 **MinGi-SUNG/MinGi-SUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
