@@ -7,7 +7,11 @@
 [![MINGI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinGi-SUNG&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg2937)](https://solved.ac/mg2937/)
 
-## 🔨 Once I've used 🔨
+##
+- 전북대학교 생물산업기계공학과 졸업
+- 삼성 청년 SW 아카데미 (SSAFY) 11기 진행중
+
+## 🔨 Skill 🔨
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
