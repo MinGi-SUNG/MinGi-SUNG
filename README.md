@@ -1,5 +1,5 @@
 <div align="left">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=SUNG%20MINGI%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=25&height=250)
 ##
 - 전북대학교 생물산업기계공학과 졸업
@@ -10,6 +10,7 @@
 
 [![MINGI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinGi-SUNG&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg2937)](https://solved.ac/mg2937/)
+
 
 
 ## 🔨 Skill 🔨
