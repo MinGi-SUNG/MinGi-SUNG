@@ -8,7 +8,7 @@
 ##
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinGi-SUNG&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[![MINGI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinGi-SUNG&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![MINGI's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinGi-SUNG&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg2937)](https://solved.ac/mg2937/)
 
 
