@@ -5,12 +5,13 @@
 - 전북대학교 생물산업기계공학 전공, 소프트웨어공학 복수전공
 - 삼성 청년 SW 아카데미 (SSAFY) 11기 진행중
 
+
 ##
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinGi-SUNG&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 [![MINGI's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinGi-SUNG&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg2937)](https://solved.ac/mg2937/)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinGi-SUNG&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=23E7E7E7" width=98%/>
 
 
 ## 🔨 Skill 🔨
