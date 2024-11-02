@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=SUNG%20MINGI%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=25&height=250)
 ##
-- 전북대학교 생물산업기계공학 전공, 소프트웨어공학 복수전공
-- 삼성 청년 SW 아카데미 (SSAFY) 11기 1학기 수료
+- 전북대학교 생물산업기계공학 전공, 소프트웨어공학 복수전공 (2017.03 ~ 2024.02)
+- 삼성 청년 SW 아카데미 (SSAFY) 11기 1학기 수료 (2024.01 ~ 2024.06)
 - 앰코테크놀로지코리아 SW Eng'r (2024.07 ~ )
 
 
